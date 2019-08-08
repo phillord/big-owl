@@ -4,3 +4,6 @@ performance testing.
 
 The files here are meant to be big, rather than up-to-date. Files are
 stored with git lfs.
+
+To generate the files, run `make` in the top level. You will need
+robot and horned-owl installed.
