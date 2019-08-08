@@ -1,0 +1,8 @@
+This directory contains multiple versions of the Gene Ontology.
+
+Files are downloaded from:
+
+http://geneontology.org/docs/download-ontology/
+
+Files in other formats have been generated with Robot
+http://robot.obolibrary.org/

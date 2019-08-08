@@ -1,0 +1,6 @@
+This is a set of large files in OWL, the Ontology Web Language, both
+artifical and real-world, which can be used for functional and
+performance testing.
+
+The files here are meant to be big, rather than up-to-date. Files are
+stored with git lfs.
