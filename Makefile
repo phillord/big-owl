@@ -2,6 +2,7 @@ all: go ncbitaxon many-classes
 
 all-big: all
 	$(MAKE) -C ncbitaxon big
+	$(MAKE) -C many-classes big
 
 go:
 	$(MAKE) -C go

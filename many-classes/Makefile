@@ -1,5 +1,7 @@
 all: o10.owx o100.owx o1000.owx o10000.owx o100000.owx o1000000.owx o10000000.owx
 
+big: o500000000.owx
+
 o10.owx:
 	horned-big 10 > o10.owx
 
