@@ -1,5 +1,8 @@
 all: go ncbitaxon
 
+all-big: all
+	$(MAKE) -C ncbitaxon big
+
 go:
 	$(MAKE) -C go
 
