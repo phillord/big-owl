@@ -14,4 +14,4 @@ ncbitaxon.owl:
 	wget http://purl.obolibrary.org/obo/ncbitaxon.owl
 
 clean:
-	rm ncbitaxon*
+	- rm ncbitaxon*

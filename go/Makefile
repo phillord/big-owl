@@ -20,4 +20,4 @@ go.obo: go.owl
 go: go.owx go.obo
 
 clean:
-	rm go*
+	- rm go*

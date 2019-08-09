@@ -24,4 +24,4 @@ o10000000.owx:
 o100000000.owx:
 	horned-big 100000000 > o10000000.owx
 clean:
-	rm o*owx
+	- rm o*owx
