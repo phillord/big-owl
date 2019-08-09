@@ -1,8 +1,8 @@
 all: go ncbitaxon many-classes
 
-all-big: ncbibig many-classes-big
+all-big: all ncbi-big many-classes-big
 
-ncbibig:
+ncbi-big:
 	$(MAKE) -C ncbitaxon big
 
 many-classes-big:
