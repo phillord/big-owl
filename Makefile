@@ -17,4 +17,4 @@ clean:
 	$(MAKE) -C ncbitaxon clean
 	$(MAKE) -C many-classes clean
 
-.PHONY: go ncbitaxon
+.PHONY: go ncbitaxon many-classes
