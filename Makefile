@@ -1,4 +1,4 @@
-all: go ncbitaxon
+all: go ncbitaxon many-classes
 
 all-big: all
 	$(MAKE) -C ncbitaxon big
