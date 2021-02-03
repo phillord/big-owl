@@ -1,9 +1,16 @@
-This is a set of large files in OWL, the Ontology Web Language, both
-artifical and real-world, which can be used for functional and
-performance testing.
+This repository provides a set of large OWL files that are useful for
+testing software. The files themselves are not distributed as they are
+too large! Rather this is a set of makefiles that download or generate
+them.
 
-The files here are meant to be big, rather than up-to-date. Files are
-stored with git lfs.
 
-To generate the files, run `make` in the top level. You will need
-robot and horned-owl installed.
+To run you will need robot (http://robot.obolibrary.org/) and
+horned-owl (https://github.com/phillord/horned-owl) installed. Robot
+is in Java and requires quite a bit of memory to use.
+
+Horned is written in Rust and is much more efficient, but is not
+feature complete with Robot (in fact, big-owl was created partly to
+test horned!). However, Horned is rather more aggressive with it's
+resource use. If you don't have enough, it may crash your machine.
+
+
