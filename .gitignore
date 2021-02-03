@@ -3,12 +3,7 @@
 /go/go.obo
 /go/go.owl
 /go/go.owx
-/many-classes/o10.owx
-/many-classes/o100.owx
-/many-classes/o1000.owx
-/many-classes/o10000.owx
-/many-classes/o100000.owx
-/many-classes/o1000000.owx
+/many-classes/o*.owx
 /ncbitaxon/ncbitaxon.obo
 /ncbitaxon/ncbitaxon.owl
 /ncbitaxon/ncbitaxon.owx
