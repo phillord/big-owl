@@ -1,4 +1,4 @@
-all: o10.owx o100.owx o1000.owx o10000.owx o100000.owx o1000000.owx o10000000.owx o100000000.owx
+all: o10.owx o100.owx o1000.owx o10000.owx o100000.owx o1000000.owx o2500000.owx
 
 big: o500000000.owx
 
