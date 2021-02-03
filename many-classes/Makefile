@@ -20,11 +20,11 @@ o100000.owx:
 o1000000.owx:
 	horned-big 1000000 > o100000.owx
 
-o10000000.owx:
-	horned-big 10000000 > o1000000.owx
+o2500000.owx:
+	horned-big 25000000 > o2500000.owx
 
-o100000000.owx:
-	horned-big 100000000 > o10000000.owx
+# o100000000.owx:
+# 	horned-big 100000000 > o10000000.owx
 
 clean:
 	- rm o*owx
