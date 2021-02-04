@@ -17,6 +17,9 @@ ncbitaxon:
 many-classes:
 	$(MAKE) -C many-classes
 
+dto:
+	$(MAKE) -C dto
+
 clean:
 	$(MAKE) -C go clean
 	$(MAKE) -C ncbitaxon clean

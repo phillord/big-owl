@@ -1,9 +1,3 @@
-/go/go-plus.owl
-/go/go-plus.owx
-/go/go.obo
-/go/go.owl
-/go/go.owx
-/many-classes/o*.owx
-/ncbitaxon/ncbitaxon.obo
-/ncbitaxon/ncbitaxon.owl
-/ncbitaxon/ncbitaxon.owx
+*.owl
+*.owx
+*.obo

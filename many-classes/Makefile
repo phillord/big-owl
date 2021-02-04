@@ -27,12 +27,10 @@ o5000000.owx:
 o10000000.owx:
 	horned-big 10000000 > o1000000.owx
 
-
 ## This file comes in at over 1Gb which seems a nice round number to
 ## stop at.
 o20000000.owx:
 	horned-big 20000000 > o2000000.owx
-
 
 clean:
 	- rm o*owx

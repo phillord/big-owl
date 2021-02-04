@@ -3,7 +3,6 @@ testing software. The files themselves are not distributed as they are
 too large! Rather this is a set of makefiles that download or generate
 them.
 
-
 To run you will need robot (http://robot.obolibrary.org/) and
 horned-owl (https://github.com/phillord/horned-owl) installed. Robot
 is in Java and requires quite a bit of memory to use.
@@ -13,4 +12,14 @@ feature complete with Robot (in fact, big-owl was created partly to
 test horned!). However, Horned is rather more aggressive with it's
 resource use. If you don't have enough, it may crash your machine.
 
+The directories contain:
 
+dto:: The Drug Target Ontology isn't particularly large, but has lots
+of imports.
+
+go:: The Gene Ontology. Large, and in both normal and "plus" forms
+
+many-classes:: Generated ontology with various numbers of class
+declarations and nothing else
+
+ncbitaxon:: Very large and real ontology
